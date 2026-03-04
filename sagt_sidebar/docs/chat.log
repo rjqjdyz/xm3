@@ -1,0 +1,164 @@
+StreamPart(event='metadata', data={'run_id': '1f078da3-c705-6332-8028-4721012f2e2c', 'attempt': 1})
+StreamPart(event='values', data={'task_result': None, 'node_result': []})
+StreamPart(
+    event='values',
+    data={
+        'task_result': None,
+        'node_result': [{'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []}]
+    }
+)
+StreamPart(
+    event='values',
+    data={
+        'task_result': None,
+        'node_result': [
+            {'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []},
+            {'execute_node_name': 'load_welcome_message_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您加载数据，请稍等。', 'execute_exceptions': []}
+        ]
+    }
+)
+StreamPart(
+    event='values',
+    data={
+        'task_result': None,
+        'node_result': [
+            {'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []},
+            {'execute_node_name': 'load_welcome_message_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您加载数据，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'load_employee_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成员工信息加载', 'execute_exceptions': []}
+        ]
+    }
+)
+StreamPart(
+    event='values',
+    data={
+        'task_result': None,
+        'node_result': [
+            {'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []},
+            {'execute_node_name': 'load_welcome_message_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您加载数据，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'load_employee_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成员工信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_tag_setting_node', 'execute_result_code': 0, 'execute_result_msg': '完成标签设置加载', 'execute_exceptions': []}
+        ]
+    }
+)
+StreamPart(
+    event='values',
+    data={
+        'task_result': None,
+        'node_result': [
+            {'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []},
+            {'execute_node_name': 'load_welcome_message_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您加载数据，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'load_employee_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成员工信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_tag_setting_node', 'execute_result_code': 0, 'execute_result_msg': '完成标签设置加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_customer_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成客户信息加载', 'execute_exceptions': []}
+        ]
+    }
+)
+StreamPart(
+    event='values',
+    data={
+        'task_result': None,
+        'node_result': [
+            {'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []},
+            {'execute_node_name': 'load_welcome_message_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您加载数据，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'load_employee_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成员工信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_tag_setting_node', 'execute_result_code': 0, 'execute_result_msg': '完成标签设置加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_customer_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成客户信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_chat_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成聊天消息加载', 'execute_exceptions': []}
+        ]
+    }
+)
+StreamPart(
+    event='values',
+    data={
+        'task_result': None,
+        'node_result': [
+            {'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []},
+            {'execute_node_name': 'load_welcome_message_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您加载数据，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'load_employee_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成员工信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_tag_setting_node', 'execute_result_code': 0, 'execute_result_msg': '完成标签设置加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_customer_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成客户信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_chat_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成聊天消息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_kf_chat_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成微信客服信息加载', 'execute_exceptions': []}
+        ]
+    }
+)
+StreamPart(
+    event='values',
+    data={
+        'task_result': None,
+        'node_result': [
+            {'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []},
+            {'execute_node_name': 'load_welcome_message_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您加载数据，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'load_employee_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成员工信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_tag_setting_node', 'execute_result_code': 0, 'execute_result_msg': '完成标签设置加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_customer_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成客户信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_chat_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成聊天消息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_kf_chat_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成微信客服信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_order_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成订单信息加载', 'execute_exceptions': []}
+        ]
+    }
+)
+StreamPart(
+    event='values|chat_suggestion:bbffba8c-878f-16b9-011d-e838678b3498',
+    data={'node_result': [{'execute_node_name': 'chat_welcome_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您生成聊天建议，请稍等。', 'execute_exceptions': []}]}
+)
+StreamPart(
+    event='values|chat_suggestion:bbffba8c-878f-16b9-011d-e838678b3498',
+    data={
+        'task_result': {
+            'task_result': '程哥，欢迎您明天来！我们可以详细聊聊酒席的安排，确保一切都能让您满意。如果有需要提前准备的，也请您告诉我。期待与您的见面。',
+            'task_result_explain': '确认客户来访时间，表达欢迎和准备，增强客户满意度和信任感',
+            'task_result_code': 0
+        },
+        'node_result': [
+            {'execute_node_name': 'chat_welcome_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您生成聊天建议，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'chat_generate_node', 'execute_result_code': 0, 'execute_result_msg': '生成聊天建议成功', 'execute_exceptions': []}
+        ]
+    }
+)
+StreamPart(
+    event='values',
+    data={
+        'task_result': {
+            'task_result': '程哥，欢迎您明天来！我们可以详细聊聊酒席的安排，确保一切都能让您满意。如果有需要提前准备的，也请您告诉我。期待与您的见面。',
+            'task_result_explain': '确认客户来访时间，表达欢迎和准备，增强客户满意度和信任感',
+            'task_result_code': 0
+        },
+        'node_result': [
+            {'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []},
+            {'execute_node_name': 'load_welcome_message_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您加载数据，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'load_employee_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成员工信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_tag_setting_node', 'execute_result_code': 0, 'execute_result_msg': '完成标签设置加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_customer_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成客户信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_chat_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成聊天消息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_kf_chat_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成微信客服信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_order_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成订单信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'chat_welcome_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您生成聊天建议，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'chat_generate_node', 'execute_result_code': 0, 'execute_result_msg': '生成聊天建议成功', 'execute_exceptions': []}
+        ]
+    }
+)
+StreamPart(
+    event='values',
+    data={
+        'task_result': {
+            'task_result': '程哥，欢迎您明天来！我们可以详细聊聊酒席的安排，确保一切都能让您满意。如果有需要提前准备的，也请您告诉我。期待与您的见面。',
+            'task_result_explain': '确认客户来访时间，表达欢迎和准备，增强客户满意度和信任感',
+            'task_result_code': 0
+        },
+        'node_result': [
+            {'execute_node_name': 'sagt_welcome_message', 'execute_result_code': 0, 'execute_result_msg': '您好，我是Sagt，很高兴为您服务', 'execute_exceptions': []},
+            {'execute_node_name': 'load_welcome_message_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您加载数据，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'load_employee_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成员工信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_tag_setting_node', 'execute_result_code': 0, 'execute_result_msg': '完成标签设置加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_customer_info_node', 'execute_result_code': 0, 'execute_result_msg': '完成客户信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_chat_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成聊天消息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_kf_chat_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成微信客服信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'load_order_history_node', 'execute_result_code': 0, 'execute_result_msg': '完成订单信息加载', 'execute_exceptions': []},
+            {'execute_node_name': 'chat_welcome_node', 'execute_result_code': 0, 'execute_result_msg': '正在为您生成聊天建议，请稍等。', 'execute_exceptions': []},
+            {'execute_node_name': 'chat_generate_node', 'execute_result_code': 0, 'execute_result_msg': '生成聊天建议成功', 'execute_exceptions': []},
+            {'execute_node_name': 'task_result_confirm', 'execute_result_code': 0, 'execute_result_msg': '任务已完成，希望您能满意', 'execute_exceptions': []}
+        ]
+    }
+)
+任务完成

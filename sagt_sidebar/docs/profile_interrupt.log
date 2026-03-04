@@ -1,0 +1,40 @@
+获取到中断信息
+{
+    '54e1fd4d-2fa2-c88b-a273-9c855c427705': [
+        {
+            'id': '2037595e01eab71624455a2b1da0d897',
+            'value': {
+                'description': '这是帮您生成的客户Profile，您可以确认、放弃、重新生成。',
+                'new_profile': {
+                    'profile_items': [
+                        {'item_name': '姓名', 'item_value': '程先生（程哥、大程哥）'},
+                        {'item_name': '年龄', 'item_value': '中年'},
+                        {'item_name': '性别', 'item_value': '男'},
+                        {'item_name': '职业', 'item_value': '未明确提及'},
+                        {'item_name': '兴趣爱好', 'item_value': '品酒、收藏酒、家庭聚会'},
+                        {'item_name': '婚姻状况', 'item_value': '已婚'},
+                        {'item_name': '教育程度', 'item_value': '未明确提及'},
+                        {'item_name': '饮酒频率', 'item_value': '高频，每周/多次'},
+                        {'item_name': '饮酒场景', 'item_value': '商务宴请、家庭聚会、独自小酌'},
+                        {'item_name': '饮酒金额', 'item_value': '高端，单瓶价格500元以上'},
+                        {'item_name': '饮酒口感偏好', 'item_value': '醇厚、陈酿、药香等'},
+                        {'item_name': '饮酒购买渠道', 'item_value': '线下实体店、线上电商平台、销售人员预留'},
+                        {'item_name': '饮食习惯', 'item_value': '无特别忌口，对酒品选择有高要求'},
+                        {'item_name': '出行方式', 'item_value': '未明确提及'},
+                        {'item_name': '宠物情况', 'item_value': '未提及'},
+                        {'item_name': '娱乐活动偏好', 'item_value': '未明确提及'},
+                        {'item_name': '家庭成员', 'item_value': '妻子、子女'},
+                        {'item_name': '常喝的酒的种类', 'item_value': '白酒（酱香型）、红酒、药酒'},
+                        {'item_name': '喜欢的酒的品牌', 'item_value': '茅台、红花郎、五粮液、奔富'},
+                        {'item_name': '消费频率', 'item_value': '经常，有需求时即购买'},
+                        {'item_name': '消费场景', 'item_value': '商务宴请、家庭聚会、送礼'},
+                        {'item_name': '每次消费的大致金额', 'item_value': '较高，单价500元以上'},
+                        {'item_name': '对酒的口感偏好', 'item_value': '偏爱酱香型、药酒、老字号品牌'},
+                        {'item_name': '购买渠道', 'item_value': '一级经销商直供、销售人员预留、官方实体店'}
+                    ]
+                },
+                'old_profile': {'profile_items': []}
+            }
+        }
+    ]
+}
